@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuhowtouse"
+        android:title="How to Use?"/>
+
+    <item
+        android:id="@+id/menushare"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/menurateus"
+        android:title="Rate Us" />
+    <item
+        android:id="@+id/menuaboutapp"
+        android:title="About App" />
+    <item
+        android:id="@+id/menuprivacypolicy"
+        android:title="Privacy Policy"/>
+
+    <item
+        android:id="@+id/moreapp"
+        android:title="More App"/>
+
+
+</menu>

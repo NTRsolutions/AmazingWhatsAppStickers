@@ -1,0 +1,1604 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.dolphinwebsolution.amazing_srickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+    {
+      "identifier": "rose_day_valentineweek",
+      "name": "Rose Day - Valentine Week",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        }
+      ]
+    },
+    {
+      "identifier": "propose_day_valentineweek",
+      "name": "Propose Day- Valentine Week",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        }
+      ]
+    },
+    {
+      "identifier": "chocolate_day_valentineweek",
+      "name": "Chocolate Day- Valentine Week",
+      "publisher": "vinod",
+      "tray_image_file": "3_96.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        }
+      ]
+    },
+    {
+      "identifier": "teddy_day_valentineweek",
+      "name": "Teddy Day- Valentine Week",
+      "publisher": "vinod",
+      "tray_image_file": "4_96.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        }
+      ]
+    },
+    {
+      "identifier": "promise_day_valentineweek",
+      "name": "Promise Day- Valentine Week",
+      "publisher": "vinod",
+      "tray_image_file": "5_96.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        }
+      ]
+    },
+    {
+      "identifier": "hug_day_valentineweek",
+      "name": "Hug Day- Valentine Week",
+      "publisher": "vinod",
+      "tray_image_file": "6_96.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        }
+      ]
+    },
+    {
+      "identifier": "kiss_day_valentineweek",
+      "name": "Kiss Day- Valentine Week",
+      "publisher": "vinod",
+      "tray_image_file": "7_96.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["Ã°Å¸â€â€¹","Ã°Å¸ËœÂµ"]
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "god",
+      "name": "God",
+      "publisher": "vinod",
+      "tray_image_file": "6.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😆","😂","😄"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "birthday",
+      "name": "Birthday",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🎂","🍻"]
+        }
+      ]
+    },
+    {
+      "identifier": "coffeee",
+      "name": "Daily Wishes",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "b1.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "b2.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "b6.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "b9.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "c1.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "c21.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "c22.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "c23.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "gm1.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "gm2.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "gm3.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "gm8.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "gm9.webp",
+          "emojis": ["🎂","🍻"]
+        }
+      ]
+    },
+    {
+      "identifier": "politician",
+      "name": "Politician",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "b1.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b2.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b3.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b4.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b5.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b6.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b7.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b8.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b9.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b10.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b11.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b12.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b13.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b14.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b15.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b16.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b17.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b18.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "b19.webp",
+          "emojis": ["👍","😄","👏"]
+        }
+      ]
+    },
+    {
+      "identifier": "happy",
+      "name": "Happy",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😆","😂","😄"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "love_couple",
+      "name": "Love Couple",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "15.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "18.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "20.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "24.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "25.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "26.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "love_emoji",
+      "name": "Love Emoji",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "15.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "18.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "20.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "sad",
+      "name": "Shocked Sad",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😵","😩","😰"]
+        }
+
+      ]
+    },
+
+    {
+      "identifier": "text_stickers",
+      "name": "Text Sticker",
+      "publisher": "vinod",
+      "tray_image_file": "text_stickerss.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "13_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "14_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "15_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "16_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "17_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "18_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "19_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "20_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "21_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "22_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "23_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "24_text_stickers_for_whats.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "wedding",
+      "name": "Wedding",
+      "publisher": "vinod",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "gujratiword",
+      "name": "Gujarati words",
+      "publisher": "vinod",
+      "tray_image_file": "1.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "gujratiloveword",
+      "name": "Gujarati Love Words",
+      "publisher": "vinod",
+      "tray_image_file": "4.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    }
+  ]
+}
